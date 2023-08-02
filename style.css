@@ -31,11 +31,10 @@ body{
    border-radius: 20px;
 }
 
-/* .container *{
+.container *{
    font-family: "Poppins",sans-serif;
-   border: none;
-   outline: none;
-} */
+   
+}
 
 .form-input{
    background-color: #080808;
